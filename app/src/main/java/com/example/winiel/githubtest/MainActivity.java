@@ -17,8 +17,9 @@ public class MainActivity extends AppCompatActivity {
 
 
         // 브런치 테스트
+        // 두번째 수정
 
-        
+
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
