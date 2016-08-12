@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
 
         /*
         * clone 코드
+        * 44444
+        *
         * */
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
