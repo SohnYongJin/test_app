@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
         int c1 = 8;
         int c2 = 9;
+        int c2 = 9;
 
         int t1 = 1;
 
