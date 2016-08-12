@@ -21,8 +21,26 @@ public class MainActivity extends AppCompatActivity {
         * 66666
         * */
 
+        // 브런치 테스트
+        // 첫번째 파일
+        // 두번째 수정
+        // zzzzz
+        // 55555
+
+
+        int i1 = 7;
+        int i2 = 9;
+        int i10 = 10;
+
         int c1 = 8;
         int c2 = 9;
+        int c2 = 9;
+
+        int t1 = 1;
+
+
+
+
 
 
         setContentView(R.layout.activity_main);
