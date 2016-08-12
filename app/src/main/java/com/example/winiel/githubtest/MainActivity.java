@@ -15,6 +15,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        /*
+        * clone 코드
+        * 44444
+        * 66666
+        * */
 
         // 브런치 테스트
         // 첫번째 파일
@@ -24,6 +29,16 @@ public class MainActivity extends AppCompatActivity {
 
 
         int i1 = 7;
+        int i2 = 9;
+        int i10 = 10;
+
+        int c1 = 8;
+        int c2 = 9;
+
+        int t1 = 1;
+
+
+
 
 
 
